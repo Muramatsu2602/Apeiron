@@ -1,0 +1,49 @@
+
+fieldset
+{
+ margin: 0px;
+ width: 550px;
+ margin: 10px auto;
+ color: black;
+ font-family: 'arial','verdana',sans-serif;
+ line-height: 1.5;
+ padding: 15px;
+ height: 1200px;
+ border: 5px solid black;
+}
+h1
+{
+ text-align: center;
+ font-family: 'arial','verdana',sans-serif;
+ font-size: 14pt;
+}
+p.sub-titulo
+{
+ font-size: 20px;
+}
+.direita
+{
+ text-align: right;
+}
+.center
+{  
+ text-align: center;
+}
+.cabecalho {
+    width: 100%;
+}
+.unesp
+{
+    float: right;
+    width: 160px;
+    height: 70px;
+}
+.cti
+{
+    width: 100px;
+    float: left;
+}
+#capa 
+{
+    padding-top: 0px;
+}
